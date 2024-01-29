@@ -15,3 +15,4 @@ Shuffles elements on the page either on load, on click or at set intervals.
 
 ## Notes
 + Time in milliseconds for example, 1 second is _1000_ and 1 minute is _60000_
++ The button has a class _se_2s8w_button_ so you can style it how you see fit.
